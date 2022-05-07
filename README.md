@@ -1,3 +1,6 @@
+# THIS IS A COLLEGE PROJECT AND NOT MY OWN, THIS IS HERE TO SHOW WHAT I WAS ABLE TO DO WHEN COMPLETING THIS PROJECT.
+# ORIGINAL OWNER IS THE UNIVERSITY OF OKLAHOMA CS 2334
+
 # Project 4: A Simple Nonogram Maker
 
 > There are two ways of constructing a software design: One way is to make it
